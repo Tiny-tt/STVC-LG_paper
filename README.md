@@ -2,7 +2,7 @@
 Paper "PM2.5 estimation and its relationship with NO2 and SO2 in China from 2016 to 2020" (Doi:10.1080/17538947.2024.2398055) Experimental reproduction archive.
 
 ## Description
-Only the January 2020 example CSV data are provided here due to the excessive size of the experimental raw data and remote sensing imagery data.
+Only the 1st-5th January 2020 example CSV data are provided here due to the excessive size of the experimental raw data and remote sensing imagery data.
 The generated daily 1 km PM2.5 distribution (in China from 2016-2020) is available in Zenodo at https://doi.org/10.5281/zenodo.11145467.  
 For more information about the paper and the STVC-LG model in detail, please get in touch with Huangyuan Tan (tanhuangyuan@whu.edu.cn)
 
